@@ -1,5 +1,6 @@
 Data Diri
 ===
-Nama :   
-NIM :  
-Kelas :
+Nama :   Teri Kincowati
+NIM :  155150201111082
+Kelas : TIF E
+
